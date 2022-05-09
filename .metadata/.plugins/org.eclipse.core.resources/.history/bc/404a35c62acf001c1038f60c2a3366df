@@ -1,0 +1,21 @@
+
+/**
+ * @author Leon Lu
+ * @version 1.0 5/5/2022
+ */
+public class ArrayList
+{
+	private T[] data;
+	private int size; //Keeps track of how many items have been added to the List
+	
+
+	public ArrayList()
+	{
+		data = (T[]) new Object[0];
+	}
+	
+	public ArrayList(int initialCapacity)
+	{
+		
+	}
+}

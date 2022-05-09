@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\omega\Documents\Java Projects\HW3-ArrayList\.metadata\.plugins\org.eclipse.jdt.core
+3994916960.index
+1865797976.index
+3413725848.index
